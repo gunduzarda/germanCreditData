@@ -1,4 +1,4 @@
-# germanCreditData
+# German Credit Data
 Readme:
 This repository contains the code and documentation for a research project on credit risk assessment using machine learning techniques. The project is implemented in Python and Jupyter Notebook.
 
